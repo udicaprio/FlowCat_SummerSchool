@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="540" viewBox="0 0 920 540" role="img" aria-labelledby="title description">
+  <title id="title">Fully connected neural-network architecture</title>
+  <desc id="description">Six input neurons, three hidden layers of ten neurons each, and two output neurons.</desc>
+  <metadata>Generated using the NN-SVG FCNN architecture [6, 10, 10, 10, 2]. NN-SVG: https://github.com/alexlenail/NN-SVG</metadata>
+  <rect width="920" height="540" fill="#ffffff"/>
+  <g id="connections" fill="none" stroke="#707070" stroke-width="0.7" stroke-opacity="0.32">
+    <path d="M100,155 L280,79"/>
+    <path d="M100,155 L280,117"/>
+    <path d="M100,155 L280,155"/>
+    <path d="M100,155 L280,193"/>
+    <path d="M100,155 L280,231"/>
+    <path d="M100,155 L280,269"/>
+    <path d="M100,155 L280,307"/>
+    <path d="M100,155 L280,345"/>
+    <path d="M100,155 L280,383"/>
+    <path d="M100,155 L280,421"/>
+    <path d="M100,193 L280,79"/>
+    <path d="M100,193 L280,117"/>
+    <path d="M100,193 L280,155"/>
+    <path d="M100,193 L280,193"/>
+    <path d="M100,193 L280,231"/>
+    <path d="M100,193 L280,269"/>
+    <path d="M100,193 L280,307"/>
+    <path d="M100,193 L280,345"/>
+    <path d="M100,193 L280,383"/>
+    <path d="M100,193 L280,421"/>
+    <path d="M100,231 L280,79"/>
+    <path d="M100,231 L280,117"/>
+    <path d="M100,231 L280,155"/>
+    <path d="M100,231 L280,193"/>
+    <path d="M100,231 L280,231"/>
+    <path d="M100,231 L280,269"/>
+    <path d="M100,231 L280,307"/>
+    <path d="M100,231 L280,345"/>
+    <path d="M100,231 L280,383"/>
+    <path d="M100,231 L280,421"/>
+    <path d="M100,269 L280,79"/>
+    <path d="M100,269 L280,117"/>
+    <path d="M100,269 L280,155"/>
+    <path d="M100,269 L280,193"/>
+    <path d="M100,269 L280,231"/>
+    <path d="M100,269 L280,269"/>
+    <path d="M100,269 L280,307"/>
+    <path d="M100,269 L280,345"/>
+    <path d="M100,269 L280,383"/>
+    <path d="M100,269 L280,421"/>
+    <path d="M100,307 L280,79"/>
+    <path d="M100,307 L280,117"/>
+    <path d="M100,307 L280,155"/>
+    <path d="M100,307 L280,193"/>
+    <path d="M100,307 L280,231"/>
+    <path d="M100,307 L280,269"/>
+    <path d="M100,307 L280,307"/>
+    <path d="M100,307 L280,345"/>
+    <path d="M100,307 L280,383"/>
+    <path d="M100,307 L280,421"/>
+    <path d="M100,345 L280,79"/>
+    <path d="M100,345 L280,117"/>
+    <path d="M100,345 L280,155"/>
+    <path d="M100,345 L280,193"/>
+    <path d="M100,345 L280,231"/>
+    <path d="M100,345 L280,269"/>
+    <path d="M100,345 L280,307"/>
+    <path d="M100,345 L280,345"/>
+    <path d="M100,345 L280,383"/>
+    <path d="M100,345 L280,421"/>
+    <path d="M280,79 L460,79"/>
+    <path d="M280,79 L460,117"/>
+    <path d="M280,79 L460,155"/>
+    <path d="M280,79 L460,193"/>
+    <path d="M280,79 L460,231"/>
+    <path d="M280,79 L460,269"/>
+    <path d="M280,79 L460,307"/>
+    <path d="M280,79 L460,345"/>
+    <path d="M280,79 L460,383"/>
+    <path d="M280,79 L460,421"/>
+    <path d="M280,117 L460,79"/>
+    <path d="M280,117 L460,117"/>
+    <path d="M280,117 L460,155"/>
+    <path d="M280,117 L460,193"/>
+    <path d="M280,117 L460,231"/>
+    <path d="M280,117 L460,269"/>
+    <path d="M280,117 L460,307"/>
+    <path d="M280,117 L460,345"/>
+    <path d="M280,117 L460,383"/>
+    <path d="M280,117 L460,421"/>
+    <path d="M280,155 L460,79"/>
+    <path d="M280,155 L460,117"/>
+    <path d="M280,155 L460,155"/>
+    <path d="M280,155 L460,193"/>
+    <path d="M280,155 L460,231"/>
+    <path d="M280,155 L460,269"/>
+    <path d="M280,155 L460,307"/>
+    <path d="M280,155 L460,345"/>
+    <path d="M280,155 L460,383"/>
+    <path d="M280,155 L460,421"/>
+    <path d="M280,193 L460,79"/>
+    <path d="M280,193 L460,117"/>
+    <path d="M280,193 L460,155"/>
+    <path d="M280,193 L460,193"/>
+    <path d="M280,193 L460,231"/>
+    <path d="M280,193 L460,269"/>
+    <path d="M280,193 L460,307"/>
+    <path d="M280,193 L460,345"/>
+    <path d="M280,193 L460,383"/>
+    <path d="M280,193 L460,421"/>
+    <path d="M280,231 L460,79"/>
+    <path d="M280,231 L460,117"/>
+    <path d="M280,231 L460,155"/>
+    <path d="M280,231 L460,193"/>
+    <path d="M280,231 L460,231"/>
+    <path d="M280,231 L460,269"/>
+    <path d="M280,231 L460,307"/>
+    <path d="M280,231 L460,345"/>
+    <path d="M280,231 L460,383"/>
+    <path d="M280,231 L460,421"/>
+    <path d="M280,269 L460,79"/>
+    <path d="M280,269 L460,117"/>
+    <path d="M280,269 L460,155"/>
+    <path d="M280,269 L460,193"/>
+    <path d="M280,269 L460,231"/>
+    <path d="M280,269 L460,269"/>
+    <path d="M280,269 L460,307"/>
+    <path d="M280,269 L460,345"/>
+    <path d="M280,269 L460,383"/>
+    <path d="M280,269 L460,421"/>
+    <path d="M280,307 L460,79"/>
+    <path d="M280,307 L460,117"/>
+    <path d="M280,307 L460,155"/>
+    <path d="M280,307 L460,193"/>
+    <path d="M280,307 L460,231"/>
+    <path d="M280,307 L460,269"/>
+    <path d="M280,307 L460,307"/>
+    <path d="M280,307 L460,345"/>
+    <path d="M280,307 L460,383"/>
+    <path d="M280,307 L460,421"/>
+    <path d="M280,345 L460,79"/>
+    <path d="M280,345 L460,117"/>
+    <path d="M280,345 L460,155"/>
+    <path d="M280,345 L460,193"/>
+    <path d="M280,345 L460,231"/>
+    <path d="M280,345 L460,269"/>
+    <path d="M280,345 L460,307"/>
+    <path d="M280,345 L460,345"/>
+    <path d="M280,345 L460,383"/>
+    <path d="M280,345 L460,421"/>
+    <path d="M280,383 L460,79"/>
+    <path d="M280,383 L460,117"/>
+    <path d="M280,383 L460,155"/>
+    <path d="M280,383 L460,193"/>
+    <path d="M280,383 L460,231"/>
+    <path d="M280,383 L460,269"/>
+    <path d="M280,383 L460,307"/>
+    <path d="M280,383 L460,345"/>
+    <path d="M280,383 L460,383"/>
+    <path d="M280,383 L460,421"/>
+    <path d="M280,421 L460,79"/>
+    <path d="M280,421 L460,117"/>
+    <path d="M280,421 L460,155"/>
+    <path d="M280,421 L460,193"/>
+    <path d="M280,421 L460,231"/>
+    <path d="M280,421 L460,269"/>
+    <path d="M280,421 L460,307"/>
+    <path d="M280,421 L460,345"/>
+    <path d="M280,421 L460,383"/>
+    <path d="M280,421 L460,421"/>
+    <path d="M460,79 L640,79"/>
+    <path d="M460,79 L640,117"/>
+    <path d="M460,79 L640,155"/>
+    <path d="M460,79 L640,193"/>
+    <path d="M460,79 L640,231"/>
+    <path d="M460,79 L640,269"/>
+    <path d="M460,79 L640,307"/>
+    <path d="M460,79 L640,345"/>
+    <path d="M460,79 L640,383"/>
+    <path d="M460,79 L640,421"/>
+    <path d="M460,117 L640,79"/>
+    <path d="M460,117 L640,117"/>
+    <path d="M460,117 L640,155"/>
+    <path d="M460,117 L640,193"/>
+    <path d="M460,117 L640,231"/>
+    <path d="M460,117 L640,269"/>
+    <path d="M460,117 L640,307"/>
+    <path d="M460,117 L640,345"/>
+    <path d="M460,117 L640,383"/>
+    <path d="M460,117 L640,421"/>
+    <path d="M460,155 L640,79"/>
+    <path d="M460,155 L640,117"/>
+    <path d="M460,155 L640,155"/>
+    <path d="M460,155 L640,193"/>
+    <path d="M460,155 L640,231"/>
+    <path d="M460,155 L640,269"/>
+    <path d="M460,155 L640,307"/>
+    <path d="M460,155 L640,345"/>
+    <path d="M460,155 L640,383"/>
+    <path d="M460,155 L640,421"/>
+    <path d="M460,193 L640,79"/>
+    <path d="M460,193 L640,117"/>
+    <path d="M460,193 L640,155"/>
+    <path d="M460,193 L640,193"/>
+    <path d="M460,193 L640,231"/>
+    <path d="M460,193 L640,269"/>
+    <path d="M460,193 L640,307"/>
+    <path d="M460,193 L640,345"/>
+    <path d="M460,193 L640,383"/>
+    <path d="M460,193 L640,421"/>
+    <path d="M460,231 L640,79"/>
+    <path d="M460,231 L640,117"/>
+    <path d="M460,231 L640,155"/>
+    <path d="M460,231 L640,193"/>
+    <path d="M460,231 L640,231"/>
+    <path d="M460,231 L640,269"/>
+    <path d="M460,231 L640,307"/>
+    <path d="M460,231 L640,345"/>
+    <path d="M460,231 L640,383"/>
+    <path d="M460,231 L640,421"/>
+    <path d="M460,269 L640,79"/>
+    <path d="M460,269 L640,117"/>
+    <path d="M460,269 L640,155"/>
+    <path d="M460,269 L640,193"/>
+    <path d="M460,269 L640,231"/>
+    <path d="M460,269 L640,269"/>
+    <path d="M460,269 L640,307"/>
+    <path d="M460,269 L640,345"/>
+    <path d="M460,269 L640,383"/>
+    <path d="M460,269 L640,421"/>
+    <path d="M460,307 L640,79"/>
+    <path d="M460,307 L640,117"/>
+    <path d="M460,307 L640,155"/>
+    <path d="M460,307 L640,193"/>
+    <path d="M460,307 L640,231"/>
+    <path d="M460,307 L640,269"/>
+    <path d="M460,307 L640,307"/>
+    <path d="M460,307 L640,345"/>
+    <path d="M460,307 L640,383"/>
+    <path d="M460,307 L640,421"/>
+    <path d="M460,345 L640,79"/>
+    <path d="M460,345 L640,117"/>
+    <path d="M460,345 L640,155"/>
+    <path d="M460,345 L640,193"/>
+    <path d="M460,345 L640,231"/>
+    <path d="M460,345 L640,269"/>
+    <path d="M460,345 L640,307"/>
+    <path d="M460,345 L640,345"/>
+    <path d="M460,345 L640,383"/>
+    <path d="M460,345 L640,421"/>
+    <path d="M460,383 L640,79"/>
+    <path d="M460,383 L640,117"/>
+    <path d="M460,383 L640,155"/>
+    <path d="M460,383 L640,193"/>
+    <path d="M460,383 L640,231"/>
+    <path d="M460,383 L640,269"/>
+    <path d="M460,383 L640,307"/>
+    <path d="M460,383 L640,345"/>
+    <path d="M460,383 L640,383"/>
+    <path d="M460,383 L640,421"/>
+    <path d="M460,421 L640,79"/>
+    <path d="M460,421 L640,117"/>
+    <path d="M460,421 L640,155"/>
+    <path d="M460,421 L640,193"/>
+    <path d="M460,421 L640,231"/>
+    <path d="M460,421 L640,269"/>
+    <path d="M460,421 L640,307"/>
+    <path d="M460,421 L640,345"/>
+    <path d="M460,421 L640,383"/>
+    <path d="M460,421 L640,421"/>
+    <path d="M640,79 L820,231"/>
+    <path d="M640,79 L820,269"/>
+    <path d="M640,117 L820,231"/>
+    <path d="M640,117 L820,269"/>
+    <path d="M640,155 L820,231"/>
+    <path d="M640,155 L820,269"/>
+    <path d="M640,193 L820,231"/>
+    <path d="M640,193 L820,269"/>
+    <path d="M640,231 L820,231"/>
+    <path d="M640,231 L820,269"/>
+    <path d="M640,269 L820,231"/>
+    <path d="M640,269 L820,269"/>
+    <path d="M640,307 L820,231"/>
+    <path d="M640,307 L820,269"/>
+    <path d="M640,345 L820,231"/>
+    <path d="M640,345 L820,269"/>
+    <path d="M640,383 L820,231"/>
+    <path d="M640,383 L820,269"/>
+    <path d="M640,421 L820,231"/>
+    <path d="M640,421 L820,269"/>
+  </g>
+  <g id="neurons" fill="#ffffff" stroke="#333333" stroke-width="1.5">
+    <circle cx="100" cy="155" r="10"/>
+    <circle cx="100" cy="193" r="10"/>
+    <circle cx="100" cy="231" r="10"/>
+    <circle cx="100" cy="269" r="10"/>
+    <circle cx="100" cy="307" r="10"/>
+    <circle cx="100" cy="345" r="10"/>
+    <circle cx="280" cy="79" r="10"/>
+    <circle cx="280" cy="117" r="10"/>
+    <circle cx="280" cy="155" r="10"/>
+    <circle cx="280" cy="193" r="10"/>
+    <circle cx="280" cy="231" r="10"/>
+    <circle cx="280" cy="269" r="10"/>
+    <circle cx="280" cy="307" r="10"/>
+    <circle cx="280" cy="345" r="10"/>
+    <circle cx="280" cy="383" r="10"/>
+    <circle cx="280" cy="421" r="10"/>
+    <circle cx="460" cy="79" r="10"/>
+    <circle cx="460" cy="117" r="10"/>
+    <circle cx="460" cy="155" r="10"/>
+    <circle cx="460" cy="193" r="10"/>
+    <circle cx="460" cy="231" r="10"/>
+    <circle cx="460" cy="269" r="10"/>
+    <circle cx="460" cy="307" r="10"/>
+    <circle cx="460" cy="345" r="10"/>
+    <circle cx="460" cy="383" r="10"/>
+    <circle cx="460" cy="421" r="10"/>
+    <circle cx="640" cy="79" r="10"/>
+    <circle cx="640" cy="117" r="10"/>
+    <circle cx="640" cy="155" r="10"/>
+    <circle cx="640" cy="193" r="10"/>
+    <circle cx="640" cy="231" r="10"/>
+    <circle cx="640" cy="269" r="10"/>
+    <circle cx="640" cy="307" r="10"/>
+    <circle cx="640" cy="345" r="10"/>
+    <circle cx="640" cy="383" r="10"/>
+    <circle cx="640" cy="421" r="10"/>
+    <circle cx="820" cy="231" r="10"/>
+    <circle cx="820" cy="269" r="10"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle" fill="#202020">
+    <text x="100" y="475" font-size="15" font-weight="600">Input layer</text>
+    <text x="100" y="498" font-size="13">6 process variables</text>
+    <text x="280" y="475" font-size="15" font-weight="600">Hidden layer 1</text>
+    <text x="280" y="498" font-size="13">10 neurons · ReLU</text>
+    <text x="460" y="475" font-size="15" font-weight="600">Hidden layer 2</text>
+    <text x="460" y="498" font-size="13">10 neurons · ReLU</text>
+    <text x="640" y="475" font-size="15" font-weight="600">Hidden layer 3</text>
+    <text x="640" y="498" font-size="13">10 neurons · ReLU</text>
+    <text x="820" y="475" font-size="15" font-weight="600">Output layer</text>
+    <text x="820" y="498" font-size="13">2 targets · linear</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#3f3f3f">
+    <text x="82" y="159" text-anchor="end">GFR</text>
+    <text x="82" y="197" text-anchor="end">LFR</text>
+    <text x="82" y="235" text-anchor="end">T</text>
+    <text x="82" y="273" text-anchor="end">αCO₂</text>
+    <text x="82" y="311" text-anchor="end">pCO₂</text>
+    <text x="82" y="349" text-anchor="end">H</text>
+    <text x="838" y="235" text-anchor="start">kGa</text>
+    <text x="838" y="273" text-anchor="start">η</text>
+  </g>
+</svg>
